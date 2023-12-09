@@ -1,6 +1,6 @@
 # bookly_app
 -**Native splash screen and make anmited screen**
--cached_network_image: Caches network images, improving performance and reducing unnecessary network requests.
+-**cached_network_image**: Caches network images, improving performance and reducing unnecessary network requests.
 -Adds a shimmer effect for loading content, enhancing the visual appeal during loading periods.
 -Cubit: for effective state management.
 -Dio: A powerful HTTP client for Dart, enabling efficient communication with APIs.
